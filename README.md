@@ -60,8 +60,8 @@ Never enter passwords from unexpected links.
 
 ## Screenshots
 
-![Sample run](screenshots/sample_run.png)
-![Test results](screenshots/test_results.png)
+![Sample run](screenshots/Sample1.png)
+![Test results](screenshots/test1.png)
 
 ## Improvements
 
